@@ -13,7 +13,6 @@
 <ul>
   <li><a href="https://www.linkedin.com/in/texi-rae-schaeffer/">LinkedIn</a>
   <li><a href="https://twitter.com/texirae">Twitter</a>
-  <li><a href="https://github.com/texirae">GitHub</a>
   <li>Website: Coming Soon!</li>
  </ul>
  
@@ -21,6 +20,12 @@
  <ul>
   <li>Javascript</li>
   <li>ReactJS</li>
+ </ul>
+ 
+ <h3>Goals for 2023</h3>
+ <ul>
+  <li>Graduate from Bloomtech by May 2023</li>
+  <li>Land my first software engineering job</li>
  </ul>
   
   
