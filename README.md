@@ -1,34 +1,39 @@
-<h1>Texi Schaeffer (she/her)</h1>
+# Texi Schaeffer (she/her)
 
-<h3>Introduction:</h3>
-<ul>
-  <li>:computer: Ex-land development engineer turned full-stack web development student at Bloomtech Institute of Technology</li>
-  <li>:basketball: High School & Collegiate level basketball official</li>
-  <li>:football: High School level football official</li>
-  <li>:airplane: I love to travel and experience different cultures</li>
-  <li>:boxing_glove: Never turn down a challenge </li>
- </ul>
+<div className="pictures" style="display:flex" align="center">
+<img 
+     src="https://user-images.githubusercontent.com/111753526/215239761-e6636cbe-8341-4de3-883d-69dbffb20d02.jpg"
+     alt="Tauranga, NZ"
+     width="240"
+     height="300"
+     padding="10px"
+/>
+<img
+     src="https://user-images.githubusercontent.com/111753526/215240308-391a182a-71fe-4474-a771-3e62a1c90098.jpg"
+     alt="Milford Sound"
+     width="240"
+     height="300"
+     padding="10px"
+/>
+<img
+     src="https://user-images.githubusercontent.com/111753526/215240484-84087ea4-b047-406c-8d1b-9286196e9ab3.jpg"
+     alt="sunset"
+     width="240"
+     height="300"
+ />
+ </div>
 
-<h3>How to reach me:</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/texi-rae-schaeffer/">LinkedIn</a>
-  <li><a href="https://twitter.com/texirae">Twitter</a>
-  <li>Website: Coming Soon!</li>
- </ul>
- 
- <h3>I'm currently learning:</h3>
- <ul>
-  <li>Javascript</li>
-  <li>ReactJS</li>
- </ul>
- 
- <h3>Goals for 2023</h3>
- <ul>
-  <li>Graduate from Bloomtech by May 2023</li>
-  <li>Land my first software engineering job</li>
- </ul>
-  
-  
+
+## Introduction:
+* :computer: Ex-land development engineer turned full-stack web development student at Bloomtech Institute of Technology
+* :basketball: High School & Collegiate level basketball official
+* :football: High School level football official
+* :airplane: I love to travel and experience different cultures
+
+## How to reach me:
+* [LinkedIn Profile](https://www.linkedin.com/in/texi-rae-schaeffer/)
+* [Twitter Profile](https://twitter.com/texirae)
+* Website: Coming Soon!
 
 <!--
 **texirae/texirae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
