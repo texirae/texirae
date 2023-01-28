@@ -1,28 +1,25 @@
 # Texi Schaeffer (she/her)
 
-<img 
-     display="flex"
-     align="right"
-     src="https://user-images.githubusercontent.com/111753526/215239761-e6636cbe-8341-4de3-883d-69dbffb20d02.jpg"
-     alt="Tauranga, NZ"
-     width="240"
-     height="280"
-/>
 <img
      display="flex"
      align="right"
      src="https://user-images.githubusercontent.com/111753526/215240308-391a182a-71fe-4474-a771-3e62a1c90098.jpg"
      alt="Milford Sound"
-     width="240"
-     height="280"
+     width="300"
+     height="400"
 />
 
 
 ## Introduction:
-* :computer: Ex-land development engineer turned full-stack web development student at Bloomtech Institute of Technology
+* :computer: Ex-land development engineer from Texas turned full-stack web development student at Bloomtech Institute of Technology
 * :basketball: High School & Collegiate level basketball official
 * :football: High School level football official
 * :airplane: I love to travel and experience different cultures
+
+## Fun Facts about me:
+* I'm a huge pokemon fan. I've owned every game since Red and Blue version were released.
+* I lived in New Zealand for 3 years working as a land-development engineer.
+* My family is currently made up 9 dogs. 6 small rescues and 3 great pyreness.
 
 ## How to reach me:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/texi-rae-schaeffer/)
