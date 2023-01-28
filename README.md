@@ -1,27 +1,21 @@
 # Texi Schaeffer (she/her)
 
 <img 
+     display="flex"
+     align="right"
      src="https://user-images.githubusercontent.com/111753526/215239761-e6636cbe-8341-4de3-883d-69dbffb20d02.jpg"
-     align="left"
      alt="Tauranga, NZ"
      width="240"
      height="280"
 />
 <img
+     display="flex"
+     align="right"
      src="https://user-images.githubusercontent.com/111753526/215240308-391a182a-71fe-4474-a771-3e62a1c90098.jpg"
-     align="center"
      alt="Milford Sound"
      width="240"
      height="280"
 />
-<img
-     src="https://user-images.githubusercontent.com/111753526/215240484-84087ea4-b047-406c-8d1b-9286196e9ab3.jpg"
-     align="right"
-     alt="sunset"
-     width="240"
-     height="280"
- />
- </div>
 
 
 ## Introduction:
